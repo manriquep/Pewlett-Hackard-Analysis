@@ -3,14 +3,14 @@ Departments
 dept_no varchar pk
 dept_name varchar
 
-Dept_Emp
+dept_emp
 -
-emp_no int pk fk - Employees.emp_no
-dept_no valchar pk fk - Departments.dept_no
+emp_no int pk fk -< Employees.emp_no
+dept_no varchar pk fk -< Departments.dept_no
 from_date date
 to_date date
 
-Dept_Managers
+dept_manager
 -
 dept_no varchar pk fk - Departments.dept_no
 emp_no int pk fk - Employees.emp_no
@@ -19,23 +19,23 @@ to_date date
 
 Employees
 -
-emp_no int
+emp_no int pk
 birth_date date
-first_name varchar
-last_name varchar
-gender varchar
+first_name valchar
+last_name valchar
+gender valchar
 hire_date date
 
 Salaries
 -
-emp_no int pk fk - Employees.emp_no
+emp_no int pk FK - Employees.emp_no
 salary int
 from_date date
 to_date date
 
 Titles
 -
-emp_no int pk fk - Employees.emp_no
-title valchar
-from_date date
+emp_no int pk fk -< Employees.emp_no
+title int pk 
+from_date date pk
 to_date date
