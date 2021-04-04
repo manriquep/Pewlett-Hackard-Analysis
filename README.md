@@ -33,7 +33,7 @@ The purpose of this project is to prepare Pewlett Hackard for future hiring by r
 
 **Summary**
 
-- How many roles will need to be filled as the &quot;silver tsunami&quot; begins to make an impact?
+  How many roles will need to be filled as the &quot;silver tsunami&quot; begins to make an impact?
 
   When the &quot;silver tsunami&quot; begins to make an impact, there will be 90,398 roles that will need to be filled.
 
@@ -41,7 +41,7 @@ The purpose of this project is to prepare Pewlett Hackard for future hiring by r
 ![image](https://user-images.githubusercontent.com/74743437/113499523-99e04c00-94e4-11eb-8a22-51057d8cf9d7.png)
 
 
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+  Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
   
   No, with only 1,549 employees that are available for the mentorship role, there are not enough to mentor all the employees that would need to be hired.
 
