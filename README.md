@@ -26,6 +26,9 @@ The first method (with the partitioning) gives a total of 90,398 employees born 
 
 From the mentorship program table, we can run a SELECT COUNT statement to get the number of employees that are available for the mentorship role. The Result is 1,549.
 
+![image](https://user-images.githubusercontent.com/74743437/113499592-40c4e800-94e5-11eb-8fb6-e6d75cdc0400.png)
+
+
 **Summary**
 
 - How many roles will need to be filled as the &quot;silver tsunami&quot; begins to make an impact?
