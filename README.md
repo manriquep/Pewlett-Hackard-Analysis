@@ -15,16 +15,16 @@ The purpose of this project is to prepare Pewlett Hackard for future hiring by r
 
 **Results**
 
-The total number of  **all current**  employees is 240,124, broken down by title as shown below in the image below.
+- The total number of  **all current**  employees is 240,124, broken down by title as shown below in the image below.
 
 ![image](https://user-images.githubusercontent.com/74743437/113499494-5daceb80-94e4-11eb-9c16-c80e231e98b0.png)
 
 
-The first method (with the partitioning) gives a total of 90,398 employees born between 1952 and 1955 broken down as shown below.
+- The first method (with the partitioning) gives a total of 90,398 employees born between 1952 and 1955 broken down as shown below.
 
 ![image](https://user-images.githubusercontent.com/74743437/113499500-70bfbb80-94e4-11eb-870e-3465b2d88c13.png)
 
-From the mentorship program table, we can run a SELECT COUNT statement to get the number of employees that are available for the mentorship role. The Result is 1,549.
+- From the mentorship program table, we can run a SELECT COUNT statement to get the number of employees that are available for the mentorship role. The Result is 1,549.
 
 ![image](https://user-images.githubusercontent.com/74743437/113499592-40c4e800-94e5-11eb-8fb6-e6d75cdc0400.png)
 
