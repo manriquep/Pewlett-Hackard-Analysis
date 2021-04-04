@@ -28,6 +28,8 @@ The purpose of this project is to prepare Pewlett Hackard for future hiring by r
 
 ![image](https://user-images.githubusercontent.com/74743437/113499592-40c4e800-94e5-11eb-8fb6-e6d75cdc0400.png)
 
+- There are only 1,549 mentors for the 90,398 roles that would need to be filled.
+
 
 **Summary**
 
